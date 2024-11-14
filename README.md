@@ -1,8 +1,8 @@
-# Ex.07 Software Product Company Website
+# Ex.07 Restuarant Website
 ## Date:
 
 ## AIM:
-To develop a static company website to display the softwares and services provided by the company.
+To develop a static Resturant website to display the menu and services provided by the resturant.
 
 ## DESIGN STEPS:
 
